@@ -1,4 +1,4 @@
-## [Live Site](time-countdown-react.surge.sh)
+## [Live Site](http://time-countdown-react.surge.sh/)
 
 # Getting Started with Create React App
 
